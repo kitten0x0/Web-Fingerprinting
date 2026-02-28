@@ -1,0 +1,37 @@
+RESEARCH-GRADE DATASET SUMMARY
+=============================
+Total Traces: 2400
+Unique Sites: 20
+
+Traces per site:
+label
+Adobe            120
+Apple            120
+BBC              120
+Bing             120
+CNN              120
+Dropbox          120
+DuckDuckGo       120
+GitHub           120
+Google           120
+IMDB             120
+LinkedIn         120
+Microsoft        120
+Mozilla          120
+Netflix          120
+Pinterest        120
+Reddit           120
+StackOverflow    120
+Wikipedia        120
+Yahoo            120
+YouTube          120
+
+Packet Count Stats:
+count    2400.000000
+mean     4691.410833
+std       914.076702
+min       303.000000
+25%      5000.000000
+50%      5000.000000
+75%      5000.000000
+max      5000.000000
